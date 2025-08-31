@@ -3,7 +3,10 @@
 I am a passionate **Full Stack Developer & Data Analyst** from Ethiopia, driven by curiosity for technology and a love for solving real-world problems with software and data.  
 I specialize in building **modern web applications** (React + Django + PostgreSQL) and performing **data exploration, cleaning, and visualization** for actionable insights.  
 
-![Muradamen's Stats](https://github-readme-stats.vercel.app/api?username=Muradamen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muradamen&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muradamen&layout=compact&theme=tokyonight&hide=C++,C)
+
 
 
 ## 🚀 About Me  
